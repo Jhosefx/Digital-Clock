@@ -15,4 +15,4 @@
 - [x] WebSite
 
 # Results
-<img src="https://github.com/Jhosefx/ATM/blob/master/Git/Resultado.png"/>
+<img src="https://github.com/Jhosefx/Digital-Clock/blob/master/Git/Resultado.png"/>
